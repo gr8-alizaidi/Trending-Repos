@@ -21,12 +21,12 @@ I have decided to use [GitHub Search API](https://developer.github.com/v3/search
   - ViewModel - UI related data holder, lifecycle aware.
   - Navigation Component - handle everything needed for in-app navigation.
   - Data Binding - declaratively bind observable data to UI elements.
-  - Room - to serve offline purpose
 - Architecture
   - MVVM Architecture (View - DataBinding - ViewModel - Model)
-  - Repository pattern
+  - Reposit)ory pattern
+- [Room](https://github.com/androidx-releases/Room) - to serve offline purpose
 - [Glide](https://github.com/bumptech/glide) - loading images.
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - construct the REST APIs and paging network data.
 - [Material-Components](https://github.com/material-components/material-components-android) - Material design components like ripple animation, cardView.
 
-## Made By [Ali Zaidi](https://www.instagram.com/gr8_alizaidi/)
+<!-- ## Made By [Ali Zaidi](https://www.instagram.com/gr8_alizaidi/) -->
